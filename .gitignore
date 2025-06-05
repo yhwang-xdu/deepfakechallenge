@@ -1,0 +1,14 @@
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+.vscode/
+*.pyc
+__pycache__/
+*.pkl
+*.zip
+*.tar.gz
+.xml
+*.log
